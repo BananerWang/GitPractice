@@ -1,2 +1,5 @@
-hello git hub
+<<<<<<< HEAD
 another line
+=======
+hello git hub22
+>>>>>>> dev
